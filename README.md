@@ -1,29 +1,12 @@
-# VueLeafletMapExample
+# vue-leaflet-maps-example
 
-This template should help get you started developing with Vue 3 in Vite.
+A short example of using yandex map in vuejs framework
 
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
+## Library used in the project
 ```sh
-npm install
+npm i leaflet
 ```
 
-### Compile and Hot-Reload for Development
+[![Screenshot-2024-09-23-at-11-08-36.png](https://i.postimg.cc/tTnBF0qy/Screenshot-2024-09-23-at-11-08-36.png)](https://postimg.cc/7GD1yWJQ)
 
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+If you found it useful, please follow me... 🙏🤩
